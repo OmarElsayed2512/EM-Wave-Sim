@@ -1,10 +1,10 @@
 **Electromagnetic Wave Simulation**
 
 ## Team Members
-- Omar Elsayed (202100597)
-- Aser Osama (202101266)
-- Saifelden Mohamed (202100432)
-- Mahmoud Mohamed (202100678)
+- Omar Elsayed
+- Aser Osama
+- Saifelden Mohamed
+- Mahmoud Mohamed
 
 ## Course Information
 **Course:** CIE 327 – Communications and Information Engineering  
